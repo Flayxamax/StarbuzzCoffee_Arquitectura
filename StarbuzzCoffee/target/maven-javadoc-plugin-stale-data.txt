@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/ildex/OneDrive/Documentos/NetBeansProjects/StarbuzzCoffee/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ildex/OneDrive/Documentos/NetBeansProjects/StarbuzzCoffee/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'StarbuzzCoffee 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'StarbuzzCoffee 1.0-SNAPSHOT API'
+com.itson.starbuzzcoffee
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\src\main\java = 1694417366543
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\allclasses-index.html = 1694421848472
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\allpackages-index.html = 1694421848476
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\copy.svg = 1694421848509
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\element-list = 1694421848399
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\help-doc.html = 1694421848502
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\index-all.html = 1694421848495
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\index.html = 1694421848499
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\member-search-index.js = 1694421848480
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\module-search-index.js = 1694421848477
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\overview-tree.html = 1694421848458
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\package-search-index.js = 1694421848478
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\script.js = 1694421848507
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\search-page.js = 1694421848519
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\search.html = 1694421848497
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\search.js = 1694421848512
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\stylesheet.css = 1694421848506
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\tag-search-index.js = 1694421848481
+C:\Users\ildex\OneDrive\Documentos\NetBeansProjects\StarbuzzCoffee\target\site\apidocs\type-search-index.js = 1694421848479
